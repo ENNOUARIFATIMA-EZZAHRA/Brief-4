@@ -85,7 +85,6 @@ nav ul li a:hover {
     text-decoration: none;
     font-size: 14px;
     font-weight: 500;
-    top:20px;
     transition: background-color 0.3s ease;
 }
 
@@ -94,11 +93,11 @@ nav ul li a:hover {
 }
 
 .feature-img {
-    width: 430px;
-    heigh:200px;
+    width: 35%;
+    max-width: 400px;
     position: absolute;
-    right: 10%;
     top: 100px;
+    right: 10%;
 }
 
 section {
